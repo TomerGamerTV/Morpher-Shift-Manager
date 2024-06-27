@@ -1,32 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .container {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        .logo {
-            width: 64px;
-            height: 64px;
-            margin-right: 10px;
-        }
-        .title {
-            font-size: 24px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img class="logo" src="https://img.icons8.com/external-anggara-glyph-anggara-putra/64/1A1A1A/external-application-ui-basic-anggara-glyph-anggara-putra.png" alt="Logo">
-        <h1 class="title">Morpher Shift Manager</h1>
-    </div>
-</body>
-</html>
+<div align="center">
+    <img src="https://img.icons8.com/external-anggara-glyph-anggara-putra/64/1A1A1A/external-application-ui-basic-anggara-glyph-anggara-putra.png" alt="Logo" width="64" height="64">
+    <h1 style="font-size: 24px; font-weight: bold;">Morpher Shift Manager</h1>
+</div>
+
 
 []()
 
