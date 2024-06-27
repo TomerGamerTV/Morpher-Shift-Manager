@@ -17,3 +17,15 @@ _This script was mainly created for use inside custom [SCP:RP](https://roblox.co
 - Automatic recovery after crash
 - Ability to pause the timer
 
+## Changelogs
+[Releases](https://github.com/TomerGamerTV/Morpher-Shift-Manager/releases)
+_(For the latest changes i don't recommand downloading from that link)_
+## Feedback & Support 
+For feedback and support, create a new issue [here](https://github.com/TomerGamerTV/Morpher-Shift-Manager/issues).  
+
+## Tutorial  
+[Wiki](https://github.com/TomerGamerTV/Morpher-Shift-Manager/wiki/Tutorial)  
+
+## Authors  
+- [@TomerGamerTV](https://github.com/TomerGamerTV)  
+- [@ChatGPT](https://chatgpt.com/)🤓
