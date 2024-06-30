@@ -29,7 +29,7 @@ _(For the latest changes i don't recommand downloading from that link)_
 For feedback and support, create a new issue [here](https://github.com/TomerGamerTV/Morpher-Shift-Manager/issues).  
 
 ## Tutorial  
-[Wiki](https://github.com/TomerGamerTV/Morpher-Shift-Manager/wiki/Tutorial)  
+[Introduction](https://github.com/TomerGamerTV/Morpher-Shift-Manager/wiki)  
 
 ## Authors  
 - [@TomerGamerTV](https://github.com/TomerGamerTV)  
